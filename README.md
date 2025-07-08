@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Knowledge Graph Using BioBERT</h3>
+  <h3 align="center">Knowledge Graph USing BioBERT</h3>
 
 </p>
 
